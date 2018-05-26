@@ -1,7 +1,7 @@
 'use strict';
 
 (() => {
-  const API_URL = '<API_UEL>';
+  const API_URL = '<API_URL>';
   const API_KEY = '<API_KEY>';
   const TOPIC_NAME = 'topic';
 
